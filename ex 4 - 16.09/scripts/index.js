@@ -4,6 +4,8 @@ function olaNome (nome) {
     console.log("Olá, " + nome);
 }
 
-window.alert("Olá, " + nome);
+console.log("Olá, " + nome + "!");
+window.alert("Olá, " + nome + "!");
+
 
 
