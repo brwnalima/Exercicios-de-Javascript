@@ -13,3 +13,4 @@ const promessa = new Promise ((certo, errado) => {
 .catch((msgErro => console.log(msgErro)))
 
 // ABRI TUDO NO NODE/TERMINAL
+// TERMINAL > NOVO TERMINAL > "NODE [NOME DO ARQUIVO]"
