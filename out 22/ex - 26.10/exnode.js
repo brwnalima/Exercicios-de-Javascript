@@ -1,0 +1,3 @@
+console.log("Olá, mundo!")
+
+// ABRI ISSO NO POWERSHELL > trilhando o caminho até a pasta e o arquivo: cd \tata\tatata\tatata...
